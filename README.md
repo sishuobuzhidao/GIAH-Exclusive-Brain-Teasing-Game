@@ -2,7 +2,7 @@
 
 <img width="2554" height="1336" alt="image" src="https://github.com/user-attachments/assets/7956b20d-d8d9-4a8a-9183-ce5e553d609d" />
 
-**Attribution**
+**Attribution:**
 Original game engine and some assets: qq_45726626 — https://blog.csdn.net/qq_45726626/article/details/102514441 (licensed under CC BY‑SA 4.0).  
 My contributions: level designs and original music by sishuobuzhidao (GitHub) & my friend cmd.  
 This repository is distributed under the Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0) license. See LICENSE for details.
@@ -52,4 +52,4 @@ For the most popular version, there are 13 levels in total
 12) The Castle
 13) 04: Insane Fruit Collecting
 
-Level mostly designed by sishuo and cmd. 01, 02, 03 and 04 contains fragments and characteristics of the source file, but the levels are changed greatly from the original version.
+Levels are mostly designed by sishuo and cmd. 01, 02, 03 and 04 contains fragments and characteristics of the source file, but the levels are changed greatly from the original version.
