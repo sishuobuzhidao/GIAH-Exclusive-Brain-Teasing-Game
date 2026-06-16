@@ -1,5 +1,7 @@
 # HTML-Game---GIAH
 
+<img width="2554" height="1336" alt="image" src="https://github.com/user-attachments/assets/7956b20d-d8d9-4a8a-9183-ce5e553d609d" />
+
 **Attribution**
 Original game engine and some assets: qq_45726626 — https://blog.csdn.net/qq_45726626/article/details/102514441 (licensed under CC BY‑SA 4.0).  
 My contributions: level designs and original music by sishuobuzhidao (GitHub) & my friend cmd.  
@@ -19,7 +21,7 @@ This repository is distributed under the Creative Commons Attribution‑ShareAli
 This game is a parkour game with 13 levels. One has 20 lives, and the goal is to pass all the levels. Levels are designed in May 2022 and November/December 2022. The music link on the top is composed by sishuo in 2022.
 
 **Keybinds**
-Press WSD for jump/left/right;
+Press W/A/D for jump/left/right;
 Press left/up/down arrow for jump/left/right;
 Press Z for skipping level (cost 5 lives);
 Press R for retry same level (cost 1 live).
